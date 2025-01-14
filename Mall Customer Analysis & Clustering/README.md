@@ -1,1 +1,2 @@
-
+In this project, I delved into the Mall Customers dataset, examining distributions, spotting outliers, and assessing correlations among age, annual income, and spending scores. Leveraging the K-Means algorithm and the elbow method, I then segmented shoppers into meaningful groups. 
+This end-to-end workflow underscores how data-driven segmentation can power more targeted marketing efforts and fuel strategic business decisions.
