@@ -1,1 +1,2 @@
-
+This project showcases a robust data workflow—from merging multiple Excel files and exploring correlations, to performing linear regression, customer segmentation using KMeans, and final insights on sales, quantity, and satisfaction rates. 
+The end-to-end approach highlights my adeptness in data manipulation, feature engineering, and model evaluation, culminating in actionable insights that bolster strategic decision-making
