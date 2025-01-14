@@ -1,1 +1,3 @@
-
+In this project, I thoroughly cleaned and analyzed a mobile price dataset, examining trends and handling outliers.
+I then applied advanced classification algorithms—including Decision Trees, Random Forests, KNN, and MLP—to predict price ranges with impressive accuracy. 
+This work demonstrates my expertise in feature engineering, model tuning, and data visualization, illustrating the remarkable impact of a well-executed data science pipeline.
